@@ -13,7 +13,7 @@ Nhưng mà mình thích 2 theme này hơn `clean-detailed` và `robbyrussell`
 
 Nếu như muốm thay đổi theme thì mình chỉ cần vào file `Microsoft.PowerShell_profile.ps1`
 
-và thay chữ `clean-detailed` thành theme nào đó mà mình thích (ở đây mình đổi thay `robbyrussell` thì giao diện terminal sẽ thay đổi lun)
+và thay chữ `clean-detailed` thành theme nào đó mà mình thích (ở đây mình đổi thay `robbyrussell`, `patriksvensson`, `tokyonight_storm`, thì giao diện terminal sẽ thay đổi lun)
 
 ![theme](image.png)
 
